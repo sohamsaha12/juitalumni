@@ -41,8 +41,8 @@ const LoginSignup = ({ onLogin }) => {
 
     try {
       const response = isLogin
-        ? await axios.post('https://ju-it-alumni-host.onrender.com/login', { email, password })
-        : await axios.post('https://ju-it-alumni-host.onrender.com/register', {
+        ? await axios.post('https://juitalumni.onrender.com/login', { email, password })
+        : await axios.post('https://juitalumni.onrender.com/register', {
             name,
             email,
             password,
