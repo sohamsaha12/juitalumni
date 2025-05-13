@@ -1,0 +1,12 @@
+[
+    { "name": "Subrata Nandy", "imageFileName": "subratanandy2004.png","year":"2000-2004" },
+    { "name": "Kaushik Ghatak", "imageFileName": "kaushikghatak2004.png" ,"year":"2000-2004"},
+    { "name": "Debarshi Kumar Sanyal", "imageFileName": "debarshikumarsanyal2005.png","year":"2001-2005" },
+    { "name": "Arpan K. Kar", "imageFileName": "arpankkar2007.png" ,"year":"2003-2007"},
+    { "name": "Sourav Dutta", "imageFileName": "souravdutta2008.png","year":"2004-2008" },
+    { "name": "Chandan Saha", "imageFileName": "chandansaha2004.png","year":"2000-2004" },
+    { "name": "Aniket Chakrabarti", "imageFileName": "aniketchakrabarti2005.png","year":"2001-2005" },
+    { "name": "Sandip Chakraborty", "imageFileName": "sandipchakraborty2006.png","year":"2002-2006" },
+    { "name": "Suvadip Batabyal", "imageFileName": "suvadipbatabyal2008.png","year":"2004-2008" },
+    { "name": "Sneha Mundra", "imageFileName": "snehamundra2010.png","year":"2006-2010" }
+  ]

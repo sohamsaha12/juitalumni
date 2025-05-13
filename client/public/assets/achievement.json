@@ -1,0 +1,241 @@
+[
+  {
+    "name": "John Doe",
+    "description": "Awarded for outstanding research in AI.",
+    "photoFileName": "john_doe.jpg",
+    "batch": "2000-2004",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Jane Smith",
+    "description": "Recognized for contributions to software engineering.",
+    "photoFileName": "jane_smith.jpg",
+    "batch": "2001-2005",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Alice Johnson",
+    "description": "Honored for innovative work in data science.",
+    "photoFileName": "alice_johnson.jpg",
+    "batch": "2002-2004",
+    "ug_pg": "pg"
+  },
+  {
+    "name": "Bob Brown",
+    "description": "Awarded for excellence in cybersecurity.",
+    "photoFileName": "bob_brown.jpg",
+    "batch": "2003-2005",
+    "ug_pg": "pg"
+  },
+  {
+    "name": "Sreetama Mukherjee",
+    "description": "Software Engineer at Microsoft,Summer Research Fellow at Indian Academy of Science",
+    "photoFileName": "Sreetama_Mukherjee.jpg",
+    "batch": "2013-2017",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Arnab Ghatak",
+    "description": "Software Engineer at Google,ex-software engineer at Amazon",
+    "photoFileName": "arnab_ghatak.jpg",
+    "batch": "2013-2017",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Ujjwal Gupta",
+    "description": "Computer Scientist at Adobe",
+    "photoFileName": "ujjwal_gupta.jpg",
+    "batch": "2010-2014",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Rajdeep Mallick",
+    "description": "Program Associate at Wells Fargo",
+    "photoFileName": "rajdeep_mallick.jpg",
+    "batch": "2020-2024",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Kingshuk Kirtania",
+    "description": "Application Developer-1 at Oracle",
+    "photoFileName": "kingshuk_kirtania.jpg",
+    "batch": "2020-2024",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Sayak China",
+    "description": "SDE at Amazon",
+    "photoFileName": "sayak_china.jpg",
+    "batch": "2019-2023",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Sanandita Das",
+    "description": "SWE at Google",
+    "photoFileName": "sanandita_das.jpg",
+    "batch": "2019-2023",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Arpan Goswami",
+    "description": "SWE-III at Google",
+    "photoFileName": "arpan_goswami.jpg",
+    "batch": "2018-2022",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Sayandeep Ghosh",
+    "description": "SDE at Microsoft",
+    "photoFileName": "sayandeep_ghosh.jpg",
+    "batch": "2018-2022",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Abhishek Ranjan",
+    "description": "SDE-2  at Amazon",
+    "photoFileName": "abhishek_ranjan.jpg",
+    "batch": "2018-20022",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Sourabh Sand",
+    "description": "Software Engineer II at Microsoft",
+    "photoFileName": "sourabh_sand.jpg",
+    "batch": "2017-2021",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Subhadeep Gupta",
+    "description": "SDE-II at Amazon",
+    "photoFileName": "subhadeep_gupta.jpg",
+    "batch": "2017-2021",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Praduman Kumar",
+    "description": "SDE-II at Amazon",
+    "photoFileName": "praduman_kumar.jpg",
+    "batch": "2016-2020",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Anuran Chakraborty",
+    "description": "SDE-II at Amazon",
+    "photoFileName": "anuran_chakraborty.jpg",
+    "batch": "2016-2020",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Gautam Agrawal",
+    "description": "SDE-II at Amazon",
+    "photoFileName": "gautam_agrawal.jpg",
+    "batch": "2015-2019",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Biswadeep Deb Nandy",
+    "description": "Systems Software Architect at Google",
+    "photoFileName": "biswadeep_deb_nandy.jpg",
+    "batch": "2015-2019",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Anupama Singhania",
+    "description": "SDE-III at Amazon",
+    "photoFileName": "anupama_singhania.jpg",
+    "batch": "2014-2018",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Aman Wats",
+    "description": "Software Engineer-III at Google",
+    "photoFileName": "aman_wats.jpg",
+    "batch": "2015-2019",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Rishav Kumar",
+    "description": "Software Engineer at Amazon",
+    "photoFileName": "rishav_kumar.jpg",
+    "batch": "2014-2018",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Satish Kumar",
+    "description": "Software Engineer II at Microsoft",
+    "photoFileName": "satish_kumar.jpg",
+    "batch": "2013-2017",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Anikait Shivam",
+    "description": "Software Engineer at Google",
+    "photoFileName": "anikait_shivam.jpg",
+    "batch": "2012-2016",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Aman Sethi",
+    "description": "SDE-III at Amazon",
+    "photoFileName": "aman_sethi.jpg",
+    "batch": "2012-2016",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Tamseel Shams",
+    "description": "Firmware Developer at IBM",
+    "photoFileName": "tamseel_shams.jpg",
+    "batch": "2011-2015",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Rajat Chowdhary",
+    "description": "Senior Software Engineer at Google",
+    "photoFileName": "rajat_chowdhary.jpg",
+    "batch": "2012-2016",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Tulika Gupta",
+    "description": "Software Development Engineer III at Amazon",
+    "photoFileName": "tulika_gupta.jpg",
+    "batch": "2011-2015",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Pintu Gupta",
+    "description": "Technical Lead at IBM",
+    "photoFileName": "pintu_gupta.jpg",
+    "batch": "2009-2013",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Suvonkar Dam",
+    "description": "Senior Technical Program Manager at Amazon",
+    "photoFileName": "suvonkar_dam.jpg",
+    "batch": "2004-2008",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Avijit Dey",
+    "description": "Senior Staff Software Engineer at Google",
+    "photoFileName": "avijit_dey.jpg",
+    "batch": "2000-2004",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Avik Paul",
+    "description": "Software Engineer at Google",
+    "photoFileName": "avik_paul.jpg",
+    "batch": "2000-2004",
+    "ug_pg": "ug"
+  },
+  {
+    "name": "Arijit Kundu",
+    "description": "Practice Head- Digital & Technology Consulting/Future of Work at Tech Mahindra",
+    "photoFileName": "arijit_kundu.jpg",
+    "batch": "2000-2004",
+    "ug_pg": "ug"
+  }
+
+]
