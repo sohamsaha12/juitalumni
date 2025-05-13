@@ -6,7 +6,7 @@ const AdminPanel = ({ user }) => {
   useEffect(() => {
     const fetchPendingUsers = async () => {
       try {
-        const response = await fetch('https://ju-it-alumni-host.onrender.com/api/users/pending', {
+        const response = await fetch('https://juitalumni.onrender.com/api/users/pending', {
           headers: {
             'Authorization': `Bearer ${localStorage.getItem('token')}`
           }
@@ -29,7 +29,7 @@ const AdminPanel = ({ user }) => {
     if (!confirmApprove) return;
 
     try {
-      const response = await fetch(`https://ju-it-alumni-host.onrender.com/api/users/${userId}/approve`, {
+      const response = await fetch(`https://juitalumni.onrender.com/api/users/${userId}/approve`, {
         method: 'POST',
         headers: {
           'Authorization': `Bearer ${localStorage.getItem('token')}`
@@ -49,7 +49,7 @@ const AdminPanel = ({ user }) => {
     if (!confirmDecline) return;
 
     try {
-      const response = await fetch(`https://ju-it-alumni-host.onrender.com/api/users/${userId}`, {
+      const response = await fetch(`https://juitalumni.onrender.com/api/users/${userId}`, {
         method: 'DELETE',
         headers: {
           'Authorization': `Bearer ${localStorage.getItem('token')}`
